@@ -12,17 +12,10 @@ The food chatbot simplifies the process of ordering food and tracking orders thr
 
 **Ordering System**: Users can place orders for food items through the chatbot interface.
 
-
-**Menu Inquiry**: Users can inquire about menu items, ingredients, and pricing.
-
-
 **Order Tracking**: Users can track the status of their orders, including confirmation, preparation, and delivery.
-
 
 **Database Integration**: Utilizes MySQL database for storing and managing food items, orders, and user information.
 
-
 **DialogFlow Integration**: Leverages DialogFlow for natural language understanding and conversation flow management.
 
-
-Webhook Integration**: Django backend facilitates communication between DialogFlow and the MySQL database.
+**Webhook Integration**: Django backend facilitates communication between DialogFlow and the MySQL database.
