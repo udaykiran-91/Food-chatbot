@@ -10,7 +10,7 @@ The food chatbot simplifies the process of ordering food and tracking orders thr
 
 ## Features
 
-**Ordering System**: Users can place orders for food items through the chatbot interface.
+**Ordering System**: > Users can place orders for food items through the chatbot interface.
 
 **Order Tracking**: Users can track the status of their orders, including confirmation, preparation, and delivery.
 
